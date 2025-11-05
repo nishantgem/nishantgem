@@ -6,8 +6,7 @@ Nishant Singh! 👋
 
 About Me
 
-I am a strategic Data Analyst and Business
-Intelligence Specialist with extensive experience transforming complex datasets into actionable insights across Sales and Marketing domains. My core focus is on optimizing business performance by mastering the full analytics lifecycle: data integration, statistical analysis, data modeling, and comprehensive reporting (SQL, Python, Tableau).
+I am a strategic Data Analyst and Business Intelligence Specialist with extensive experience transforming complex datasets into actionable insights across Sales and Marketing domains. My core focus is on optimizing business performance by mastering the full analytics lifecycle: data integration, statistical analysis, data modeling, and comprehensive reporting (SQL, Python, Tableau).
 
 I excel at leveraging domain expertise to bridge the gap between technical data solutions and critical business decisions, ensuring data translates directly into measurable strategic action.
 
