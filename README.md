@@ -15,8 +15,8 @@ I excel at leveraging domain expertise to bridge the gap between technical data 
 | Category | Tools | 
 | :--- | :--- | 
 | **Data Analysis** | [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Advanced Excel Badge](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) | 
-| **Data Warehousing & Querying** | [![SQL Badge](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.io/) | 
-| **Business Intelligence** | [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Looker Studio Badge (formerly Data Studio)](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/) | 
+| **Data Warehousing & Querying** | [![SQL Badge](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.io/) [![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery) | 
+| **Business Intelligence** | [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Looker Studio Badge (formerly Data Studio)](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/) |
 
 ---
 
