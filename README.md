@@ -22,7 +22,7 @@ I excel at leveraging domain expertise to bridge the gap between technical data 
 
 ### Core Data Expertise
 
-* **Statistical Analysis:** Experienced in **hypothesis testing**, A/B testing, and foundational regression modeling to drive data-backed conclusions.
+* **Statistical Analysis:** Experienced in **hypothesis testing**, **MMM Modeling** , **A/B testing**, and foundational regression modeling to drive data-backed conclusions.
 
 * **Data Modeling:** Proficient in designing robust and scalable data models (e.g., star schema) for efficient reporting and analysis.
 
