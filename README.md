@@ -31,3 +31,6 @@ I excel at leveraging domain expertise to bridge the gap between technical data 
 ---
 
 ## Connect with Me
+
+* **Website:** [nishantsinghintro.netlify.app](https://nishantsinghintro.netlify.app)
+* **LinkedIn:** [linkedin.com/in/nishant-singh-data-analyst](https://www.linkedin.com/in/nishant-singh-data-analyst)
